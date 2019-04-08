@@ -1,5 +1,7 @@
 # STCNN
-Spatiotemporal CNN for Video Object Segmentation\\
+Spatiotemporal CNN for Video Object Segmentation
+
+
 This file is under construction.
 
 ## Dependencies
