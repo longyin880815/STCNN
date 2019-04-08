@@ -2,16 +2,16 @@
 Spatiotemporal CNN for Video Object Segmentation
 
 
-##Dependencies
+## Dependencies
 * python2.7
 * Pytorch0.4.0
 
 
-##Training the Joint model
+## Training the Joint model
 ```bash
 python train_JointModel.py
 ```
-##Onling training and testing
+## Onling training and testing
 
 ```bash
 python davis_LucidDream.py
