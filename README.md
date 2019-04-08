@@ -7,7 +7,8 @@ Spatiotemporal CNN for Video Object Segmentation
 * Pytorch0.4.0
 
 
-## Training the Joint model
+## Training the joint model
+Adjust the correct path in mypath.py
 ```bash
 python train_JointModel.py
 ```
